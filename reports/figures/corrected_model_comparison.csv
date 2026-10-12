@@ -1,0 +1,3 @@
+model,features,accuracy_percent
+Full model,68,82.36
+Reduced model,10,80.23

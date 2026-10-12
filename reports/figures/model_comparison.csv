@@ -1,0 +1,3 @@
+model,number_of_features,accuracy_percent
+Full model (68 features),68,82.36
+Reduced model (top 10),10,99.61
